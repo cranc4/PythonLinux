@@ -1,0 +1,6 @@
+folder_in: '/home/user/folder_in/'
+folder_out: '/home/user/folder_out/'
+folder_ext: '/home/user/folder_ext/'
+count: 5
+bs: 1M
+type: 7z
