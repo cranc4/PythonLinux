@@ -1,0 +1,11 @@
+folder_in: /home/user2/folder_in
+folder_out: /home/user2/folder_out
+folder_ext:  /home/user2/folder1
+stat_file_dir: /home/user2/folder_stat
+count: 5
+bs: 1M
+type: 7z
+ip: 0.0.0.0
+user: user2
+pswd: "1111"
+pkgname: p7zip-full
