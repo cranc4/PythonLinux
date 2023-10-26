@@ -1,0 +1,15 @@
+time = 21:19:37.608603, files_count = 5, file_size = 1M, cpu_stat = 2.10 2.10 1.62 7/679 8233
+
+time = 21:19:46.033297, files_count = 5, file_size = 1M, cpu_stat = 2.39 2.16 1.65 3/711 8697
+
+time = 21:19:56.148948, files_count = 5, file_size = 1M, cpu_stat = 2.57 2.20 1.67 3/697 9371
+
+time = 21:20:08.275208, files_count = 5, file_size = 1M, cpu_stat = 2.78 2.26 1.70 2/702 10234
+
+time = 21:20:20.119272, files_count = 5, file_size = 1M, cpu_stat = 2.58 2.24 1.69 2/698 11077
+
+time = 21:20:29.933141, files_count = 5, file_size = 1M, cpu_stat = 2.71 2.28 1.71 3/693 11750
+
+time = 21:20:37.391593, files_count = 5, file_size = 1M, cpu_stat = 2.91 2.34 1.74 4/692 12214
+
+time = 21:20:42.243761, files_count = 5, file_size = 1M, cpu_stat = 3.00 2.36 1.75 4/691 12633
